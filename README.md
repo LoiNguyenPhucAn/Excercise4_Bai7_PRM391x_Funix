@@ -1,12 +1,11 @@
 # Excercise4_Bai7_PRM391x_Funix
  Exercise 4.1 - Lắng nghe sự kiện screen on/off 
- 
  Yêu cầu về logic:
 - Sử dụng BroadcastReceiver để lắng nghe sự kiện người dùng click on-off screen.
 - Sử dụng MediaPlayer để phát nhạc
 
+
  Exercise 4.2 - Hiện Toast Emoji ngộ nghĩnh khi có cuộc gọi đến
- 
  Yêu cầu về logic:
 - Sử dụng BroadcastReceiver để lắng nghe sự kiện người dùng click on-off screen.
 - Sử dụng TelephonyManager lắng nghe trạng thái của cuộc gọi
